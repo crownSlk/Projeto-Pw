@@ -1,8 +1,11 @@
 # Projeto-Pw
 Projeto para a disciplina de Programação Web
 
-#Propriatários
+## Propriatários
 João Dias / Pedro Caniço
 
-#Tema
+## Tema
 Music Player
+
+## APIs a usar
+
