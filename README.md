@@ -5,7 +5,7 @@ Projeto para a disciplina de Programação Web
 João Dias / Pedro Caniço
 
 ## Tema
-Music Player
+Music Player, inspirado no spotify, pretende-se criar um espaço para se ouvir música e explorar gostos
 
 ## APIs a usar
 
